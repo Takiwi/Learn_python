@@ -2,4 +2,4 @@ pandas
 numpy
 matplotlib
 # SciPy
-# Scikit-learn
+# scikit-learn
