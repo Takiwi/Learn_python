@@ -2,5 +2,10 @@ pandas
 numpy
 matplotlib
 ucimlrepo
-# SciPy
-# scikit-learn
+django
+dython
+seaborn
+SciPy
+scikit-learn
+statsmodels
+yfinance

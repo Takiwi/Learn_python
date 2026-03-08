@@ -1,3 +1,7 @@
 /venv
 
 LT_GIS
+school
+
+__pycache__/
+*.pyc
